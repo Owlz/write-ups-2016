@@ -9,7 +9,7 @@
 
 ## External write-ups only
 
-* none yet
+* [tasks/tyro_rop2](tasks/tyro_rop2)
 
 ## Missing write-ups
 
@@ -24,7 +24,6 @@
 * [tasks/pimp_my_png](tasks/pimp_my_png)
 * [tasks/basic_obfuscation](tasks/basic_obfuscation)
 * [tasks/Sanity Check](tasks/Sanity Check)
-* [tasks/tyro_rop2](tasks/tyro_rop2)
 * [tasks/qart](tasks/qart)
 * [tasks/Message (partially) Received](tasks/Message (partially) Received)
 * [tasks/disable_uefi_to_continue](tasks/disable_uefi_to_continue)
